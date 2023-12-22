@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881391333150",
+    "project_id": "mahcollection-6ae8d",
+    "storage_bucket": "mahcollection-6ae8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881391333150:android:f1b187281d4db4205fa30f",
+        "android_client_info": {
+          "package_name": "com.example.mah_collection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCFlA048RnLj2WifOJfq-z8Ej8PdkphfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
